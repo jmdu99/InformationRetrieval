@@ -23,3 +23,14 @@ python3 clothing_cbir.py
 ```
 
 The three returned rankings are found inside the rankings folder. Screenshots of the results by approach and type of clothing have also been included in the folder results_by_algorithm_and_clothing.
+
+## ML Ranking
+
+1. Choose a type of MLR approach
+2. Map a set of Real world lab tests to LOINC (in class)
+3. Build the appropiate training set for the given queries : "glucose in blood", "bilirubin in plasma", "White blood cells count" (in class)
+
+**Optional to get over 70% of the grade**
+
+4. Implement model using public libraries
+5. Extend dataset
